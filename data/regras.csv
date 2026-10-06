@@ -1,0 +1,7 @@
+parametro;valor;descricao
+nome;Compre e Ganhe;Nome da campanha
+inicio;01/10/2026;Início da campanha. Notas emitidas antes desta data não participam
+fim;31/12/2026;Fim da campanha. Notas emitidas depois desta data não participam
+ufs;SP, RJ, MG;Estados em que a campanha é válida. A nota precisa ter sido emitida em um deles
+valor_por_numero_da_sorte;50,00;Valor em reais que rende 1 número da sorte. R$ 180,00 rendem 3 números
+max_numeros_por_nota;10;Máximo de números da sorte que uma única nota pode render
